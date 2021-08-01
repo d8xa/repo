@@ -1,0 +1,30 @@
+<package>
+	<id>com.d8xa.vantaye-extension</id>
+	<name>Vantaye Extension</name>
+	<version>1.0.0-1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>com.anemonetheming.anemone</package>
+        <package>com.spark.snowboard</package>
+	</dependencies>
+	<shortDescription>An inofficial extension of Surenix's Vantaye theme.</shortDescription>
+	<descriptionlist>
+		<description>This is an inofficial extension of Surenix's theme "Vantaye".</description>
+		<description>It currently contains 83 icons. Screenshots will follow soon. It was developed for iOS 14.x, so some icons might not work on earlier versions due to changes in bundle-IDs.</description>
+	</descriptionlist>
+	<changelog>
+		<change>Initial release.</change>
+		<change>83 icons.</change>
+	</changelog>
+    <links>
+		<link>
+			<name>Contact me on Reddit</name>
+			<url>https://www.reddit.com/u/d8xa</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
