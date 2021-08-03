@@ -20,11 +20,4 @@
 		<change>Initial release.</change>
 		<change>83 icons.</change>
 	</changelog>
-    <links>
-		<link>
-			<name>Contact me on Reddit</name>
-			<url>https://www.reddit.com/u/d8xa</url>
-			<iconclass>fa fa-reddit</iconclass>
-		</link>
-	</links>
 </package>

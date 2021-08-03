@@ -1,6 +1,11 @@
 <repo>
 	<footerlinks>
 		<link>
+			<name>Reddit</name>
+			<url>https://reddit.com/u/d8xa/</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+		<link>
 			<name>GitHub</name>
 			<url>https://github.com/d8xa/</url>
 			<iconclass>fa fa-github</iconclass>
