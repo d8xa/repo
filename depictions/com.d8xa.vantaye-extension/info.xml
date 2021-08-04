@@ -16,6 +16,28 @@
 		<description>This is an inofficial extension of Surenix's theme "Vantaye".</description>
 		<description>It currently contains 83 icons. Screenshots will follow soon. It was developed for iOS 14.x, so some icons might not work on earlier versions due to changes in bundle-IDs.</description>
 	</descriptionlist>
+    <screenshots>
+        <screenshot>
+            <description>Preview</description>
+            <image>preview.png</image>
+        </screenshot>
+        <screenshot>
+            <description>Page 1</description>
+            <image>page 1.jpg</image>
+        </screenshot>
+        <screenshot>
+            <description>Page 2</description>
+            <image>page 2.jpg</image>
+        </screenshot>
+        <screenshot>
+            <description>Page 3</description>
+            <image>page 3.jpg</image>
+        </screenshot>
+        <screenshot>
+            <description>Page 4</description>
+            <image>page 4.jpg</image>
+        </screenshot>
+    </screenshots>
 	<changelog>
 		<change>Initial release.</change>
 		<change>83 icons.</change>
