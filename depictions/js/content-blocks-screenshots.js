@@ -15,7 +15,6 @@ function getContentBlocks() {
                     )
                     th.append($('<img class="img-fluid">')
                         .attr("src",bundleid+'/screenshots/'+$(data).find('image').text())
-                        .attr("style", "height: 90vh;")
                     )
                     $(element).append(th);
                 });

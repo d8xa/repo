@@ -5,7 +5,13 @@ body {
     margin-bottom: 1em;
 }
 .thumbnail {
-    margin-bottom: 2em;;
+    margin-bottom: 2em;
+    align-self: center;
+}
+.img-fluid {
+    max-width: 95vw;
+    max-height: 95vh;
+    height: auto;
 }
 .list-group {
     margin-bottom: 2em;
