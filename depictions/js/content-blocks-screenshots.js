@@ -4,7 +4,7 @@ function getContentBlocks() {
             "type":"custom",
             "source" :"package>screenshots>screenshot",
             "render" : function(element,source) {
-                if ($(source).size()==0) {
+                if ($(source).size()===0) {
                     $(element).append( $("<div class='alert alert-danger'>The aren't any screenshots for this package</div>") ); 
                     return;
                 }
@@ -15,6 +15,7 @@ function getContentBlocks() {
                     )
                     th.append($('<img class="img-fluid">')
                         .attr("src",bundleid+'/screenshots/'+$(data).find('image').text())
+                        .attr("style", "height: 90vh;")
                     )
                     $(element).append(th);
                 });
