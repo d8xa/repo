@@ -3,4 +3,10 @@
 		<version>1.0.0-1</version>
 		<change>Initial Release</change>
 	</changes>
+    <changes>
+        <version>1.0.1-1</version>
+        <change>Added 6 icons:
+            checkra1n, Daylio, DHL Packstation, GitHub, Post & DHL, WorkOther
+        </change>
+    </changes>
 </changelog>
