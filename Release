@@ -7,5 +7,5 @@ Architectures: iphoneos-arm
 Components: main
 Description: d8xa's Cydia repository.
 MD5Sum:
- 3c3c95f61bec16ac03152c9e86a2edd5 576 Packages
- 5e03f833a5f6bdcac0ae09f0805f7c0c 428 Packages.bz2
+ ecfe2587aea41faa61b1b19da7badbb4 576 Packages
+ 4446adcc78c4b0903df45224e86e0114 424 Packages.bz2

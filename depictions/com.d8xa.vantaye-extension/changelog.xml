@@ -1,5 +1,12 @@
 <changelog>
     <changes>
+        <version>1.0.2-1</version>
+        <change>Added icons for 3 apps.</change>
+        <change>New:
+            Sky Guide, Prisma, DWD WarnWetter
+        </change>
+    </changes>
+    <changes>
         <version>1.0.1-1</version>
         <change>Added icons for 6 apps.</change>
         <change>New:
