@@ -1,7 +1,7 @@
 <package>
 	<id>com.d8xa.vantaye-extension</id>
 	<name>Vantaye Extension</name>
-	<version>1.0.3-4</version>
+	<version>1.0.4-5</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
@@ -39,6 +39,6 @@
         </screenshot>
     </screenshots>
 	<changelog>
-        <change>Added 3 new icons.</change>
+        <change>Summary: 18 changes (16 added, 2 modified).</change>
 	</changelog>
 </package>
