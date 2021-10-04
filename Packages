@@ -1,13 +1,13 @@
 Package: com.d8xa.vantaye-extension
-Version: 1.0.4-5
+Version: 1.0.4-6
 Architecture: iphoneos-arm
 Maintainer: d8xa
 Depends: com.anemonetheming.anemone | com.spark.snowboard
 Filename: ./debs/com.d8xa.vantaye-extension.deb
-Size: 986572
-MD5sum: 880667c1832392541d113d164468b051
-SHA1: 643590b1bea3e8c7e39de32c975350a02e08184c
-SHA256: 7dfb8a5dc0706737dadc2e30eda5e97a285525af1756451e6b97886551f78208
+Size: 986508
+MD5sum: 4ccbbc90aba9d154307df5f802e93263
+SHA1: 35d68be98f34fdf5e1c0d9764652ec92296f3bd0
+SHA256: 7230e31ad70f28e9f0c37e81034bfa07c4faaf652e5e220937e839c65cdcfb13
 Section: Themes
 Description: An inofficial extension of Surenix's Vantaye theme.
 Author: d8xa
